@@ -1,0 +1,36 @@
+.dir
+{
+box-shadow: 0px 0px 10px 10px rgba(21, 145, 234, 0.75);
+-moz-box-shadow: 0px 0px 10px 10px rgba(21, 145, 234, 0.75);
+-webkit-box-shadow: 0px 0px 10px 10px rgba(21, 145, 234, 0.75);
+}
+.file
+{
+box-shadow: 0px 0px 10px 10px rgba(107, 237, 14, 0.75);
+-moz-box-shadow: 0px 0px 10px 10px rgba(107, 237, 14, 0.75);
+-webkit-box-shadow: 0px 0px 10px 10px rgba(107, 237, 14, 0.75);
+}
+.dirs
+{
+box-shadow: inset 0px 0px 10px 1px rgba(11, 139, 237, 0.75);
+-moz-box-shadow: inset 0px 0px 10px 1px rgba(11, 139, 237, 0.75);
+-webkit-box-shadow: inset 0px 0px 10px 1px rgba(11, 139, 237, 0.75);
+}
+.files
+{
+box-shadow: inset 0px 0px 10px 1px rgba(107, 237, 14, 0.75);
+-moz-box-shadow: inset 0px 0px 10px 1px rgba(107, 237, 14, 0.75);
+-webkit-box-shadow: inset 0px 0px 10px 1px rgba(107, 237, 14, 0.75);
+}
+.elementd
+{
+    text-shadow: 0px 0px 8px rgba(0, 0, 0, 0.82);
+    color: #0592EA;
+    font-size: 25px;
+}
+.elementf
+{
+    text-shadow: 0px 0px 27px rgba(10, 245, 33, 0.82);
+    color: #000000;
+    font-size: 19px;
+}

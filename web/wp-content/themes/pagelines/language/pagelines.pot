@@ -1,0 +1,1762 @@
+# Copyright (C) 2010 PageLines
+# This file is distributed under the same license as the PageLines package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PageLines 1.4.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/pagelines\n"
+"POT-Creation-Date: 2013-06-19 20:31:40+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class.register.php:297
+msgid "Primary Sidebar"
+msgstr ""
+
+#: includes/class.register.php:298
+msgid "The main widgetized sidebar."
+msgstr ""
+
+#: includes/class.register.php:301
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: includes/class.register.php:302
+msgid "The secondary widgetized sidebar for the theme."
+msgstr ""
+
+#: includes/class.register.php:305
+msgid "Tertiary Sidebar"
+msgstr ""
+
+#: includes/class.register.php:306
+msgid ""
+"A 3rd widgetized sidebar for the theme that can be used in standard sidebar "
+"templates."
+msgstr ""
+
+#: includes/class.register.php:309
+msgid "Universal Sidebar"
+msgstr ""
+
+#: includes/class.register.php:310
+msgid "A universal widgetized sidebar"
+msgstr ""
+
+#: includes/class.register.php:314
+msgid "Full Width Sidebar"
+msgstr ""
+
+#: includes/class.register.php:315
+msgid "Shows full width widgetized sidebar."
+msgstr ""
+
+#: includes/class.register.php:318
+msgid "Content Sidebar"
+msgstr ""
+
+#: includes/class.register.php:319
+msgid ""
+"Displays a widgetized sidebar inside the main content area. Set it up in the "
+"widgets panel."
+msgstr ""
+
+#: includes/class.register.php:363 admin/class.extend.php:1213
+msgid "<h2>Unable to fetch from API</h2>"
+msgstr ""
+
+#: includes/class.layout.php:214
+msgid "Main Column"
+msgstr ""
+
+#: includes/class.shortcodes.php:312
+msgid "<span class='editpage sc'>Edit</span>"
+msgstr ""
+
+#: includes/class.shortcodes.php:362
+msgid "Tagged With: "
+msgstr ""
+
+#: includes/class.shortcodes.php:386
+msgid "Type: "
+msgstr ""
+
+#: includes/class.shortcodes.php:417 includes/library.wordpress.php:11
+msgid "Add Comment"
+msgstr ""
+
+#: includes/class.shortcodes.php:418
+msgid "<span class='num'>1</span> Comment"
+msgstr ""
+
+#: includes/class.shortcodes.php:419
+msgid "<span class='num'>%</span> Comments"
+msgstr ""
+
+#: includes/class.shortcodes.php:496
+msgid "Visit %s&#8217;s website"
+msgstr ""
+
+#: includes/class.shortcodes.php:1337
+msgid "Close"
+msgstr ""
+
+#: includes/class.render.css.php:136 includes/class.render.css.php:596
+msgid ""
+"%s/* CSS was compiled at %s and took %s seconds using %sMB of unicorn dust%s."
+"*/"
+msgstr ""
+
+#: includes/class.render.css.php:232
+msgid "LESS Compile error!"
+msgstr ""
+
+#: includes/class.render.css.php:239
+msgid "Error in %s Less code: %s"
+msgstr ""
+
+#: includes/config.widgets.php:13
+msgid ""
+"Creates a third tier navigation (Grandchild). Shows on pages when there are "
+"three levels; based on page heirarchy."
+msgstr ""
+
+#: includes/config.widgets.php:14
+msgid "PageLines Pro - Grandchild Nav"
+msgstr ""
+
+#: includes/config.widgets.php:59
+msgid "There are no options for this widget."
+msgstr ""
+
+#: includes/library.wordpress.php:14
+msgid "Comments"
+msgstr ""
+
+#: includes/library.functions.php:256
+msgid ""
+"Sorry, but you don&#8217;t have the administrative privileges needed to do "
+"this."
+msgstr ""
+
+#: includes/library.functions.php:502
+msgid "Add links using WordPress menus in your site admin."
+msgstr ""
+
+#: includes/library.functions.php:970
+msgid "Error: Please make sure the Twitter account is <a href='%s'>public</a>."
+msgstr ""
+
+#: includes/library.functions.php:974
+msgid "Error 403: Your IP is being rate limited by Twitter."
+msgstr ""
+
+#: includes/library.functions.php:978
+msgid "Error 404: Your username was not found on Twitter."
+msgstr ""
+
+#: includes/library.functions.php:982
+msgid "Error 420: Your IP is being rate limited by Twitter."
+msgstr ""
+
+#: includes/library.functions.php:986
+msgid "Error 502: Twitter is being upgraded."
+msgstr ""
+
+#: includes/library.functions.php:990
+msgid "Unknown Twitter error."
+msgstr ""
+
+#: includes/class.template.php:1084
+msgid "Site Header"
+msgstr ""
+
+#: includes/class.template.php:1091
+msgid "Site Footer"
+msgstr ""
+
+#: includes/class.template.php:1098
+msgid "Page Templates"
+msgstr ""
+
+#: includes/class.template.php:1105
+msgid "Text Content Area"
+msgstr ""
+
+#: includes/class.template.php:1111
+msgid "Morefoot Area"
+msgstr ""
+
+#: includes/class.template.php:1119 admin/class.ui.templates.php:659
+msgid "Sidebar 1"
+msgstr ""
+
+#: includes/class.template.php:1126 admin/class.ui.templates.php:665
+msgid "Sidebar 2"
+msgstr ""
+
+#: includes/class.template.php:1133
+msgid "Sidebar Wrap"
+msgstr ""
+
+#: includes/class.template.php:1153 admin/actions.admin.php:297
+#: admin/actions.admin.php:316
+msgid "Default"
+msgstr ""
+
+#: includes/class.template.php:1158
+msgid "1"
+msgstr ""
+
+#: includes/class.template.php:1163
+msgid "2"
+msgstr ""
+
+#: includes/class.template.php:1168
+msgid "3"
+msgstr ""
+
+#: includes/class.template.php:1173
+msgid "4"
+msgstr ""
+
+#: includes/class.template.php:1178
+msgid "5"
+msgstr ""
+
+#: includes/class.template.php:1183
+msgid "Blog Post"
+msgstr ""
+
+#: includes/class.template.php:1188
+msgid "Blog"
+msgstr ""
+
+#: includes/class.template.php:1193
+msgid "Tag"
+msgstr ""
+
+#: includes/class.template.php:1199
+msgid "Archive"
+msgstr ""
+
+#: includes/class.template.php:1205
+msgid "Category"
+msgstr ""
+
+#: includes/class.template.php:1211 includes/library.templates.php:239
+msgid "Search"
+msgstr ""
+
+#: includes/class.template.php:1217 includes/config.options.php:972
+#: includes/config.options.php:988 sections/postauthor/section.php:39
+msgid "Author"
+msgstr ""
+
+#: includes/class.template.php:1223
+msgid "404 Error"
+msgstr ""
+
+#: includes/actions.site.php:90
+msgid "Google Profile URL"
+msgstr ""
+
+#: includes/library.layouts.php:58
+msgid "No Image"
+msgstr ""
+
+#: includes/class.objects.php:109
+msgid "Edit"
+msgstr ""
+
+#: includes/class.objects.php:158
+msgid "edit"
+msgstr ""
+
+#: includes/class.sections.php:481
+msgid "Getting Started"
+msgstr ""
+
+#: includes/class.sections.php:482
+msgid "How to use this section"
+msgstr ""
+
+#: includes/class.sections.php:484 admin/class.options.engine.php:732
+msgid "Hide This Overview"
+msgstr ""
+
+#: includes/class.sections.php:524
+msgid "Hide Section Guide"
+msgstr ""
+
+#: includes/class.sections.php:810
+msgid "Set Meta"
+msgstr ""
+
+#: includes/class.types.php:82 includes/class.types.php:83
+msgid "Add New "
+msgstr ""
+
+#: includes/class.types.php:84 includes/class.types.php:85
+msgid "Edit "
+msgstr ""
+
+#: includes/class.types.php:86 includes/class.types.php:87
+msgid "View "
+msgstr ""
+
+#: includes/config.options.php:45
+msgid "Account Login"
+msgstr ""
+
+#: includes/config.options.php:46
+msgid "PageLines Account Sign In"
+msgstr ""
+
+#: includes/config.options.php:47
+msgid "Login or Register for a Free PageLines Account"
+msgstr ""
+
+#: includes/config.options.php:48
+msgid ""
+"Logging in with your PageLines account will allow you to purchase items from "
+"the PageLines Store, and more."
+msgstr ""
+
+#: includes/config.options.php:58
+msgid "Upload custom logo"
+msgstr ""
+
+#: includes/config.options.php:61
+msgid "Custom Logo"
+msgstr ""
+
+#: includes/config.options.php:62
+msgid "Input full URL to your custom header or logo image"
+msgstr ""
+
+#: includes/config.options.php:72
+msgid "Favicon Image"
+msgstr ""
+
+#: includes/config.options.php:73
+msgid ""
+"Input full URL to favicon image (<strong>favicon.ico</strong> image file)"
+msgstr ""
+
+#: includes/config.options.php:74
+msgid ""
+"Enter the full URL location of your custom <strong>favicon</strong> which is "
+"visible in browser favorites and tabs.<br/> <strong>Must be .png or .ico "
+"file - 16px by 16px</strong>."
+msgstr ""
+
+#: includes/config.options.php:79
+msgid "Your Twitter Username"
+msgstr ""
+
+#: includes/config.options.php:80
+msgid "Twitter Integration"
+msgstr ""
+
+#: includes/config.options.php:81
+msgid "Places your Twitter feed in your site"
+msgstr ""
+
+#: includes/config.options.php:82
+msgid ""
+"This places your Twitter feed on the site. Leave blank if you want to hide "
+"or not use."
+msgstr ""
+
+#: includes/config.options.php:87
+msgid "Your Website Hashtag"
+msgstr ""
+
+#: includes/config.options.php:88
+msgid "Website Hashtag"
+msgstr ""
+
+#: includes/config.options.php:89
+msgid ""
+"This hashtag will be used in social media (e.g. Twitter) and elsewhere to "
+"create feeds."
+msgstr ""
+
+#: includes/config.options.php:90
+msgid ""
+"Having a hashtag can be useful in creating a common thread or feed in your "
+"social media efforts."
+msgstr ""
+
+#: includes/config.options.php:99
+msgid "Login Page Image"
+msgstr ""
+
+#: includes/config.options.php:100
+msgid "The image to use on your site's login page"
+msgstr ""
+
+#: includes/config.options.php:101
+msgid ""
+"This image will be used on the login page to your admin. Use an image that "
+"is approximately <strong>80px</strong> in height."
+msgstr ""
+
+#: includes/config.options.php:109
+msgid "Mobile Touch Image"
+msgstr ""
+
+#: includes/config.options.php:110
+msgid "Input full URL to Apple touch image (.jpg, .gif, .png)"
+msgstr ""
+
+#: includes/config.options.php:111
+msgid ""
+"Enter the full URL location of your Apple Touch Icon which is visible when "
+"your users set your site as a <strong>webclip</strong> in Apple Iphone and "
+"Touch Products. It is an image approximately 57px by 57px in either .jpg, ."
+"gif or .png format."
+msgstr ""
+
+#: includes/config.options.php:127
+msgid "Website Watermark"
+msgstr ""
+
+#: includes/config.options.php:128
+msgid "Configure your website watermark (in footer)"
+msgstr ""
+
+#: includes/config.options.php:134
+msgid "Automatically show Page titles?"
+msgstr ""
+
+#: includes/config.options.php:135
+msgid "Page Titles"
+msgstr ""
+
+#: includes/config.options.php:136
+msgid "Show the title of pages above the page content"
+msgstr ""
+
+#: includes/config.options.php:137
+msgid "This option will automatically place page titles on all pages."
+msgstr ""
+
+#: includes/config.options.php:142
+msgid "Hide Sidebars When Empty (no widgets)"
+msgstr ""
+
+#: includes/config.options.php:143
+msgid "Remove Default Sidebars When Empty"
+msgstr ""
+
+#: includes/config.options.php:144
+msgid "Hide default sidebars when sidebars have no widgets in them"
+msgstr ""
+
+#: includes/config.options.php:145
+msgid ""
+"This allows you to remove sidebars completely when they have no widgets in "
+"them."
+msgstr ""
+
+#: includes/config.options.php:152
+msgid "On Top of Sidebar"
+msgstr ""
+
+#: includes/config.options.php:153
+msgid "On Bottom of Sidebar"
+msgstr ""
+
+#: includes/config.options.php:155
+msgid "Sidebar Wrap Widgets Position"
+msgstr ""
+
+#: includes/config.options.php:156
+msgid "Sidebar Wrap Widgets"
+msgstr ""
+
+#: includes/config.options.php:157
+msgid ""
+"Choose whether to show the sidebar wrap widgets on the top or bottom of the "
+"sidebar"
+msgstr ""
+
+#: includes/config.options.php:158
+msgid ""
+"You can select whether to show the widgets that you place in the sidebar "
+"wrap template in either the top or the bottom of the sidebar."
+msgstr ""
+
+#: includes/config.options.php:184
+msgid "How should layout be handled?"
+msgstr ""
+
+#: includes/config.options.php:191
+msgid "Responsive with Pixel Width"
+msgstr ""
+
+#: includes/config.options.php:192
+msgid "Responsive with % Width"
+msgstr ""
+
+#: includes/config.options.php:193
+msgid "Static with Pixel Width"
+msgstr ""
+
+#: includes/config.options.php:195
+msgid "Layout Handling"
+msgstr ""
+
+#: includes/config.options.php:196
+msgid ""
+"Select between responsive vs. static; pixel based or percentage based layout"
+msgstr ""
+
+#: includes/config.options.php:197
+msgid ""
+"Responsive layout adjusts to the size of your user's browser window; static "
+"is fixed width. Use this option to switch between the pixel based site width "
+"and a percentage based one."
+msgstr ""
+
+#: includes/config.options.php:209
+msgid "Full-Width Sections"
+msgstr ""
+
+#: includes/config.options.php:210
+msgid "Fixed-Width Mode"
+msgstr ""
+
+#: includes/config.options.php:212 includes/config.options.php:213
+msgid "Site Design Mode"
+msgstr ""
+
+#: includes/config.options.php:214
+msgid "The basic HTML layout structure for color and background effects"
+msgstr ""
+
+#: includes/config.options.php:215
+msgid ""
+"This option controls how the basic HTML layout is built. Different layout "
+"structures change the way background colors and images behave."
+"<ul><li><strong>Full-Width Mode</strong> Full width design mode allows you "
+"to have aspects of your site that are the full-width of your screen; while "
+"others are the width of the content area.</li><li><strong>Fixed-Width Mode</"
+"strong> Fixed width design mode creates a fixed width <strong>page</strong> "
+"that can be used as the area for your design.  You can set a background to "
+"the page; and the content will have a seperate <strong>fixed-width</strong> "
+"background area (i.e. the width of the content).</li></ul>"
+msgstr ""
+
+#: includes/config.options.php:220 admin/class.options.metapanel.php:811
+msgid "Disable Mobile Optimized View"
+msgstr ""
+
+#: includes/config.options.php:221 admin/class.options.metapanel.php:812
+msgid "Disable Mobile View"
+msgstr ""
+
+#: includes/config.options.php:222
+msgid "Forces mobile devices to see the full site"
+msgstr ""
+
+#: includes/config.options.php:223 admin/class.options.metapanel.php:814
+msgid ""
+"By default PageLines accommodates mobile devices resolution and shows a "
+"mobile optimized view. Check this option to make it so users see your full "
+"site."
+msgstr ""
+
+#: includes/config.options.php:233 admin/class.options.metapanel.php:778
+msgid "Fullwidth layout"
+msgstr ""
+
+#: includes/config.options.php:234 admin/class.options.metapanel.php:779
+msgid "One sidebar on right"
+msgstr ""
+
+#: includes/config.options.php:235 admin/class.options.metapanel.php:780
+msgid "One sidebar on left"
+msgstr ""
+
+#: includes/config.options.php:236 admin/class.options.metapanel.php:781
+msgid "Two sidebars on right"
+msgstr ""
+
+#: includes/config.options.php:237 admin/class.options.metapanel.php:782
+msgid "Two sidebars on left"
+msgstr ""
+
+#: includes/config.options.php:238 admin/class.options.metapanel.php:783
+msgid "Two sidebars, one on each side"
+msgstr ""
+
+#: includes/config.options.php:240
+msgid "Default Layout Mode"
+msgstr ""
+
+#: includes/config.options.php:241
+msgid "Select Default Layout"
+msgstr ""
+
+#: includes/config.options.php:242
+msgid ""
+"Select your default layout mode, this can be changed on individual pages."
+"<br />Once selected, you can adjust the layout in the Layout Dimension Editor"
+msgstr ""
+
+#: includes/config.options.php:243
+msgid ""
+"The default layout for pages and posts on your site. Dimensions can be "
+"changed using the Layout Dimension Editor."
+msgstr ""
+
+#: includes/config.options.php:250
+msgid "Layout Dimension Editor"
+msgstr ""
+
+#: includes/config.options.php:251
+msgid ""
+"Configure the default layout sizes for your site, which is initially "
+"selected above in the Default Layout Mode. <br/>This option allows you to "
+"adjust columns and margins for the default layout"
+msgstr ""
+
+#: includes/config.options.php:256
+msgid "Reset Layout"
+msgstr ""
+
+#: includes/config.options.php:259
+msgid "Reset Layout To Default"
+msgstr ""
+
+#: includes/config.options.php:261
+msgid "Changes layout mode and dimensions back to default"
+msgstr ""
+
+#: includes/config.options.php:279
+msgid "Basic Layout Colors"
+msgstr ""
+
+#: includes/config.options.php:280
+msgid "The main layout colors for your site"
+msgstr ""
+
+#: includes/config.options.php:281
+msgid ""
+"Use these options to quickly setup the main layout colors for your site.  "
+"You can use these options to build custom sites very quickly, or to quickly "
+"prototype a design then refine through custom CSS.<br/><br/><strong>Notes:</"
+"strong> <ol><li>To make the background transparent, you can leave the "
+"options blank (delete text).</li>  <li>Further customize and refine colors "
+"through custom CSS or plugins</li></ol>"
+msgstr ""
+
+#: includes/config.options.php:290
+msgid "Body Background"
+msgstr ""
+
+#: includes/config.options.php:298
+msgid "Page Background (Optional)"
+msgstr ""
+
+#: includes/config.options.php:306
+msgid "Content Background (Optional)"
+msgstr ""
+
+#: includes/config.options.php:375
+msgid "Page Text Colors"
+msgstr ""
+
+#: includes/config.options.php:376
+msgid "Controls the color of text used throughout your site"
+msgstr ""
+
+#: includes/config.options.php:377
+msgid ""
+"These options control the colors of the text throughout the page or content "
+"area of your site.<br/><br/>Certain text types are designed to contrast with "
+"different box elements and are meant to be used with hover effects.<br/><br/"
+">Experiment to find exactly how colors are combined with text on your site."
+msgstr ""
+
+#: includes/config.options.php:386
+msgid "Primary Text"
+msgstr ""
+
+#: includes/config.options.php:396
+msgid "Text Headers"
+msgstr ""
+
+#: includes/config.options.php:406
+msgid "Primary Links"
+msgstr ""
+
+#: includes/config.options.php:416
+msgid "Footer Text"
+msgstr ""
+
+#: includes/config.options.php:425
+msgid "Enable Content Shadow (Fixed Width Mode Only)"
+msgstr ""
+
+#: includes/config.options.php:426
+msgid "Adds a shadow on the fixed width content area for a little style"
+msgstr ""
+
+#: includes/config.options.php:427
+msgid ""
+"Check this option to enable a drop shadow on the canvas area when using "
+"fixed width mode."
+msgstr ""
+
+#: includes/config.options.php:434
+msgid "Site Background Image (Optional)"
+msgstr ""
+
+#: includes/config.options.php:435
+msgid "Setup a background image for the background of your site"
+msgstr ""
+
+#: includes/config.options.php:436
+msgid ""
+"Use this option to apply a background image to your site. This option will "
+"be applied to different areas depending on the design mode you have set.<br/"
+"><br/><strong>Positioning</strong> Use percentages to position the images, "
+"0% corresponds to the <strong>top</strong> or <strong>left</strong> side, "
+"50% to center, etc.."
+msgstr ""
+
+#: includes/config.options.php:441
+msgid ""
+"<strong>Supersize</strong> The Background Image (Fixed Width Mode Required)"
+msgstr ""
+
+#: includes/config.options.php:442
+msgid ""
+"Uses a script to set the background for full width and responsive design"
+msgstr ""
+
+#: includes/config.options.php:443
+msgid "Sets the background to match the width of the browser."
+msgstr ""
+
+#: includes/config.options.php:472
+msgid "Typography - Text Headers"
+msgstr ""
+
+#: includes/config.options.php:473
+msgid "Select and style your site's header tags (H1, H2, H3...)"
+msgstr ""
+
+#: includes/config.options.php:474
+msgid ""
+"Set typography for your h1, h2, etc.. tags. <br/><br/><strong>*</strong> "
+"Denotes Web Safe Fonts<br/><strong>G</strong> Denotes Google Fonts<br/><br/"
+"><strong>Note:</strong> These options make use of the <a href='http://code."
+"google.com/webfonts' target='_blank'>Google fonts API</a> to vastly increase "
+"the number of websafe fonts you can use."
+msgstr ""
+
+#: includes/config.options.php:475 includes/config.options.php:487
+#: includes/config.options.php:500
+msgid "The Pro version of this framework has over 50 websafe and Google fonts."
+msgstr ""
+
+#: includes/config.options.php:483 includes/config.options.php:496
+#: includes/config.options.php:509 admin/class.ui.typography.php:41
+msgid "Select Font"
+msgstr ""
+
+#: includes/config.options.php:484
+msgid "Typography - Primary Font"
+msgstr ""
+
+#: includes/config.options.php:485
+msgid "Select and style the standard type used in your site (body)"
+msgstr ""
+
+#: includes/config.options.php:486
+msgid ""
+"Set typography for your primary site text. This is assigned to your site's "
+"body tag. <br/><br/> <strong>*</strong> Denotes Web Safe Fonts<br/"
+"><strong>G</strong> Denotes Google Fonts"
+msgstr ""
+
+#: includes/config.options.php:497
+msgid "Typography - Secondary Font "
+msgstr ""
+
+#: includes/config.options.php:498
+msgid ""
+"Select and style your site's secondary or sub title text (Metabar, Sub "
+"Titles, etc..)"
+msgstr ""
+
+#: includes/config.options.php:499
+msgid ""
+"This options sets the typography for secondary text used throughout your "
+"site. This includes your navigation, subtitles, widget titles, etc.. <br/"
+"><br/> <strong>*</strong> Denotes Web Safe Fonts<br/><strong>G</strong> "
+"Denotes Google Fonts"
+msgstr ""
+
+#: includes/config.options.php:510
+msgid "Typography - Inputs and Textareas"
+msgstr ""
+
+#: includes/config.options.php:511
+msgid "Select and Style Your Site's Text Inputs and Textareas"
+msgstr ""
+
+#: includes/config.options.php:512
+msgid ""
+"This options sets the typography for general text inputs and textarea "
+"inputs. This includes default WordPress comment fields, etc.. <br/><br/> "
+"This option makes use of the <a href='http://code.google.com/"
+"webfonts'>Google fonts API</a> to vastly increase the number of websafe "
+"fonts you can use.<br/><strong>*</strong> Denotes web safe fonts<br/"
+"><strong>G</strong> Denotes Google fonts<br/><br/><strong>Note:</strong> the "
+"<strong>preview</strong> pane represents the font in your current browser "
+"and OS. If developing locally, Google fonts require an internet connection."
+msgstr ""
+
+#: includes/config.options.php:518
+msgid "Typekit Header Script"
+msgstr ""
+
+#: includes/config.options.php:519
+msgid "Typekit Font Replacement"
+msgstr ""
+
+#: includes/config.options.php:520
+msgid ""
+"Typekit is a service that allows you to use tons of new fonts on your site"
+msgstr ""
+
+#: includes/config.options.php:521
+msgid ""
+"Typekit is a new service and technique that allows you to use fonts outside "
+"of the 10 or so <strong>web-safe</strong> fonts. <br/><br/>Visit <a "
+"href='http://www.typekit.com' target='_blank'>Typekit.com</a> to get the "
+"script for this option. Instructions for setting up Typekit are <a "
+"href='http://typekit.assistly.com/portal/article/6780-Adding-fonts-to-your-"
+"site' target='_blank'>here</a>."
+msgstr ""
+
+#: includes/config.options.php:527
+msgid "Use Cufon font replacement?"
+msgstr ""
+
+#: includes/config.options.php:528
+msgid "Use Cufon Font Replacement"
+msgstr ""
+
+#: includes/config.options.php:529
+msgid "Use a special font replacement technique for certain text"
+msgstr ""
+
+#: includes/config.options.php:530
+msgid ""
+"Cufon is a special technique for allowing you to use fonts outside of the 10 "
+"or so <strong>web-safe</strong> fonts. <br/><br/>%s is equipped to use it.  "
+"Select this option to enable it. Visit the <a href='http://cufon.shoqolate."
+"com/generate/'>Cufon site</a>."
+msgstr ""
+
+#: includes/config.options.php:536
+msgid "Cufon replacement font file URL"
+msgstr ""
+
+#: includes/config.options.php:537
+msgid "Cufon: Replacement Font File URL"
+msgstr ""
+
+#: includes/config.options.php:538
+msgid "The font file used to replace text"
+msgstr ""
+
+#: includes/config.options.php:539
+msgid ""
+"Use the <a href='http://cufon.shoqolate.com/generate/'>Cufon site</a> to "
+"generate a font file for use with this theme.  Place it in your theme folder "
+"and add the full URL to it here. The default font is Museo Sans."
+msgstr ""
+
+#: includes/config.options.php:545
+msgid "CSS elements for font replacement"
+msgstr ""
+
+#: includes/config.options.php:546
+msgid "Cufon: CSS elements for font replacement"
+msgstr ""
+
+#: includes/config.options.php:547
+msgid "Add selectors of elements you would like replaced"
+msgstr ""
+
+#: includes/config.options.php:548
+msgid ""
+"Use standard CSS selectors to replace them with your Cufon font. Font "
+"replacement must be enabled."
+msgstr ""
+
+#: includes/config.options.php:574
+msgid "Enable Drop Down Navigation?"
+msgstr ""
+
+#: includes/config.options.php:575
+msgid "Drop Down Navigation"
+msgstr ""
+
+#: includes/config.options.php:576
+msgid "Enable universal drop down navigation"
+msgstr ""
+
+#: includes/config.options.php:577
+msgid ""
+"Checking this option will create drop down menus for all child pages when "
+"users hover over main navigation items."
+msgstr ""
+
+#: includes/config.options.php:583
+msgid "Enable Shadow on Drop Down Menu?"
+msgstr ""
+
+#: includes/config.options.php:584
+msgid "Drop Down Shadow"
+msgstr ""
+
+#: includes/config.options.php:585
+msgid "Enable shadow for drop down navigation"
+msgstr ""
+
+#: includes/config.options.php:586
+msgid "Checking this option will create shadows for the drop down menus"
+msgstr ""
+
+#: includes/config.options.php:592
+msgid "Enable Arrows on Drop Down Menu?"
+msgstr ""
+
+#: includes/config.options.php:593
+msgid "Drop Down Arrows"
+msgstr ""
+
+#: includes/config.options.php:594
+msgid "Enable arrows for drop down navigation"
+msgstr ""
+
+#: includes/config.options.php:595
+msgid "Checking this option will create arrows for the drop down menus"
+msgstr ""
+
+#: includes/config.options.php:597
+msgid "Select Which Drop Down Options To Show"
+msgstr ""
+
+#: includes/config.options.php:598
+msgid "Nav Classic &amp; BrandNav Section - Drop Down Handling"
+msgstr ""
+
+#: includes/config.options.php:599
+msgid "Select which to show"
+msgstr ""
+
+#: includes/config.options.php:600
+msgid "Enable drop downs and choose the options you would like to show"
+msgstr ""
+
+#: includes/config.options.php:607
+msgid "Hide search field?"
+msgstr ""
+
+#: includes/config.options.php:608
+msgid "Nav Classic - Hide Search"
+msgstr ""
+
+#: includes/config.options.php:609
+msgid "Remove the search field from the nav section"
+msgstr ""
+
+#: includes/config.options.php:610
+msgid "Removes the search field from the PageLines Navigation Section."
+msgstr ""
+
+#: includes/config.options.php:617
+msgid "Distance From Bottom (in pixels)"
+msgstr ""
+
+#: includes/config.options.php:618
+msgid "Distance From Right (in pixels)"
+msgstr ""
+
+#: includes/config.options.php:620
+msgid "Branding Section - Social Icon Position"
+msgstr ""
+
+#: includes/config.options.php:621
+msgid "Control the location of the social icons in the branding section"
+msgstr ""
+
+#: includes/config.options.php:622
+msgid ""
+"Set the position of your header icons with these options. They will be "
+"relative to the <strong>branding</strong> section of your site."
+msgstr ""
+
+#: includes/config.options.php:627
+msgid "Display the Blog RSS icon and link?"
+msgstr ""
+
+#: includes/config.options.php:628
+msgid "News/Blog RSS Icon"
+msgstr ""
+
+#: includes/config.options.php:629
+msgid "Places a news/blog RSS icon in your header"
+msgstr ""
+
+#: includes/config.options.php:635
+msgid "Display facebook Opengraph data in page header?"
+msgstr ""
+
+#: includes/config.options.php:636
+msgid "Facebook Opengraph"
+msgstr ""
+
+#: includes/config.options.php:637
+msgid "Places the special og: data in page <head> area."
+msgstr ""
+
+#: includes/config.options.php:645
+msgid "Your Google+ Profile URL"
+msgstr ""
+
+#: includes/config.options.php:646
+msgid "Your Facebook Profile URL"
+msgstr ""
+
+#: includes/config.options.php:647
+msgid "Your Twitter Profile URL"
+msgstr ""
+
+#: includes/config.options.php:648
+msgid "Your LinkedIn Profile URL"
+msgstr ""
+
+#: includes/config.options.php:649
+msgid "Your YouTube Profile URL"
+msgstr ""
+
+#: includes/config.options.php:651
+msgid "Social Icons"
+msgstr ""
+
+#: includes/config.options.php:652
+msgid "Add social network profile icons to your header"
+msgstr ""
+
+#: includes/config.options.php:653
+msgid ""
+"Fill in the URLs of your social networking profiles. This option will create "
+"icons in the header/branding section of your site."
+msgstr ""
+
+#: includes/config.options.php:658
+msgid "Use Child Pages For Secondary Nav?"
+msgstr ""
+
+#: includes/config.options.php:659
+msgid "Secondary Nav - Use Child Pages"
+msgstr ""
+
+#: includes/config.options.php:660
+msgid ""
+"Use this options if you want child pages in secondary nav, instead of WP "
+"menus"
+msgstr ""
+
+#: includes/config.options.php:667
+msgid "FootCols Section - Column Number"
+msgstr ""
+
+#: includes/config.options.php:668
+msgid "Control the number of columns per row in your footer columns section"
+msgstr ""
+
+#: includes/config.options.php:669
+msgid "Select Number of Footer Columns"
+msgstr ""
+
+#: includes/config.options.php:676
+msgid "Add Footer logo"
+msgstr ""
+
+#: includes/config.options.php:677
+msgid "FootCols Section - Logo"
+msgstr ""
+
+#: includes/config.options.php:678
+msgid "Show a logo in the footer"
+msgstr ""
+
+#: includes/config.options.php:679
+msgid ""
+"Add the full url of an image for use in the footer. Recommended size: 140px "
+"wide."
+msgstr ""
+
+#: includes/config.options.php:682
+msgid ""
+"Thanks for dropping by! Feel free to join the discussion by leaving "
+"comments, and stay updated by subscribing to the <a href='%s'>RSS feed</a>."
+msgstr ""
+
+#: includes/config.options.php:684
+msgid "More Statement In Footer"
+msgstr ""
+
+#: includes/config.options.php:685
+msgid "FootCols Section - More Statement"
+msgstr ""
+
+#: includes/config.options.php:686
+msgid "Add a quick statement for users who want to know more..."
+msgstr ""
+
+#: includes/config.options.php:687
+msgid ""
+"This statement will show in the footer columns under the word more. It is "
+"for users who may want to know more about your company or service."
+msgstr ""
+
+#: includes/config.options.php:692
+msgid "Terms line in footer:"
+msgstr ""
+
+#: includes/config.options.php:693
+msgid "FootCols Section - Site Terms Statement"
+msgstr ""
+
+#: includes/config.options.php:694
+msgid ""
+"A line in your footer for <strong>terms and conditions</strong> text or "
+"similar"
+msgstr ""
+
+#: includes/config.options.php:695
+msgid ""
+"It's sometimes a good idea to give your users a terms and conditions "
+"statement so they know how they should use your service or content."
+msgstr ""
+
+#: includes/config.options.php:722
+msgid "Magazine Layout Mode"
+msgstr ""
+
+#: includes/config.options.php:723
+msgid "Blog Layout Mode"
+msgstr ""
+
+#: includes/config.options.php:725
+msgid "Select Post Layout Mode"
+msgstr ""
+
+#: includes/config.options.php:726
+msgid "Blog Post Layout Mode"
+msgstr ""
+
+#: includes/config.options.php:727
+msgid "Choose between magazine style and blog style layout"
+msgstr ""
+
+#: includes/config.options.php:728
+msgid ""
+"Choose between two magazine or blog layout mode. <br/><br/> <strong>Magazine "
+"Layout Mode</strong><br/> Magazine layout mode makes use of post "
+"<strong>clips</strong>. These are summarized excerpts shown at half the "
+"width of the main content column.<br/>  <strong>Note:</strong> There is an "
+"option for showing <strong>full-width</strong> posts on your main "
+"<strong>posts</strong> page.<br/><br/><strong>Blog Layout Mode</strong><br/> "
+"This is your classical blog layout. Posts span the entire width of the main "
+"content column."
+msgstr ""
+
+#: includes/config.options.php:733
+msgid "Select Excerpt Mode"
+msgstr ""
+
+#: includes/config.options.php:740 includes/config.options.php:770
+msgid "Left Justified"
+msgstr ""
+
+#: includes/config.options.php:741 includes/config.options.php:771
+msgid "On Top"
+msgstr ""
+
+#: includes/config.options.php:742 includes/config.options.php:772
+msgid "Left, In Excerpt"
+msgstr ""
+
+#: includes/config.options.php:743 includes/config.options.php:773
+msgid "Right, In Excerpt"
+msgstr ""
+
+#: includes/config.options.php:746
+msgid "Feature Post Excerpt Mode"
+msgstr ""
+
+#: includes/config.options.php:747
+msgid "Select how thumbs should be handled in full-width posts"
+msgstr ""
+
+#: includes/config.options.php:748
+msgid ""
+"Use this option to configure how thumbs will be shown in full-width posts on "
+"your blog page."
+msgstr ""
+
+#: includes/config.options.php:753
+msgid "Configure Full Width Post Metabar"
+msgstr ""
+
+#: includes/config.options.php:754
+msgid "Full Width Post Meta"
+msgstr ""
+
+#: includes/config.options.php:756
+msgid "Additional information about a post such as Author, Date, etc..."
+msgstr ""
+
+#: includes/config.options.php:757
+msgid ""
+"Use shortcodes to control the dynamic information in your metabar. Example "
+"shortcodes you can use are: <ul><li><strong>[post_categories]</strong> - "
+"List of categories</li><li><strong>[post_edit]</strong> - Link for admins to "
+"edit the post</li><li><strong>[post_tags]</strong> - List of post tags</"
+"li><li><strong>[post_comments]</strong> - Link to post comments</"
+"li><li><strong>[post_author_posts_link]</strong> - Author and link to "
+"archive</li><li><strong>[post_author_link]</strong> - Link to author URL</"
+"li><li><strong>[post_author]</strong> - Post author with no link</"
+"li><li><strong>[post_time]</strong> - Time of post</li><li><strong>"
+"[post_date]</strong> - Date of post</li><li><strong>[post_type]</strong> - "
+"Type of post</li></ul>"
+msgstr ""
+
+#: includes/config.options.php:763
+msgid "Select Clip Excerpt Mode"
+msgstr ""
+
+#: includes/config.options.php:776
+msgid "Clip Excerpt Mode"
+msgstr ""
+
+#: includes/config.options.php:777
+msgid "Select how thumbs should be handled in clips"
+msgstr ""
+
+#: includes/config.options.php:778
+msgid ""
+"Use this option to configure how thumbs will be shown in clips. These are "
+"the smaller <strong>magazine</strong> style excerpts on your blog page."
+msgstr ""
+
+#: includes/config.options.php:785
+msgid "Configure Clip Metabar"
+msgstr ""
+
+#: includes/config.options.php:786
+msgid "Clip Metabar"
+msgstr ""
+
+#: includes/config.options.php:787
+msgid "Additional information about a clip such as Author, Date, etc..."
+msgstr ""
+
+#: includes/config.options.php:788
+msgid ""
+"Use shortcodes to control the dynamic information in your metabar. Example "
+"shortcodes you can use are: <ul><li><strong>[post_categories]</strong> - "
+"List of categories</li><li><strong>[post_edit]</strong> - Link for admins to "
+"edit the post</li><li><strong>[post_tags]</strong> - List of post tags</"
+"li><li><strong>[post_comments]</strong> - Link to post comments</"
+"li><li><strong>[post_author_posts_link]</strong> - Author and link to "
+"archive</li><li><strong>[post_author_link]</strong> - Link to author URL</"
+"li><li><strong>[post_author]</strong> - Post author with no link</"
+"li><li><strong>[post_time]</strong> - Time of post</li><li><strong>"
+"[post_date]</strong> - Date of post</li></ul>"
+msgstr ""
+
+#: includes/config.options.php:795
+msgid "Number of Full Width Posts?"
+msgstr ""
+
+#: includes/config.options.php:796
+msgid "Full Width Posts (Magazine Layout Mode Only)"
+msgstr ""
+
+#: includes/config.options.php:797
+msgid ""
+"When using magazine layout mode, select the number of <strong>featured</"
+"strong> or full-width posts"
+msgstr ""
+
+#: includes/config.options.php:798
+msgid ""
+"Select the number of posts you would like shown at the full width of the "
+"main content column in magazine layout mode (the rest will be half-width "
+"post <strong>clips</strong>)."
+msgstr ""
+
+#: includes/config.options.php:803 includes/config.options.php:817
+#: includes/config.options.php:859
+msgid "Posts/Blog Page"
+msgstr ""
+
+#: includes/config.options.php:804 includes/config.options.php:818
+msgid "Single Post Pages"
+msgstr ""
+
+#: includes/config.options.php:805 includes/config.options.php:819
+#: includes/config.options.php:860 admin/library.help.php:54
+msgid "Search Results"
+msgstr ""
+
+#: includes/config.options.php:806 includes/config.options.php:820
+#: includes/config.options.php:861
+msgid "Category Lists"
+msgstr ""
+
+#: includes/config.options.php:807 includes/config.options.php:821
+#: includes/config.options.php:862
+msgid "Post Archives"
+msgstr ""
+
+#: includes/config.options.php:808
+msgid "In Post Clips (Magazine Mode)"
+msgstr ""
+
+#: includes/config.options.php:810
+msgid "Post Thumbnail Placement"
+msgstr ""
+
+#: includes/config.options.php:811
+msgid "Where should the theme use post thumbnails?"
+msgstr ""
+
+#: includes/config.options.php:812
+msgid ""
+"Use this option to control where post <strong>featured images</strong> or "
+"thumbnails are used. Note: The post clips option only applies when magazine "
+"layout is selected."
+msgstr ""
+
+#: includes/config.options.php:823
+msgid "Post Excerpt or Summary Handling"
+msgstr ""
+
+#: includes/config.options.php:824
+msgid ""
+"Where should the theme use post excerpts when showing full column posts?"
+msgstr ""
+
+#: includes/config.options.php:825
+msgid ""
+"This option helps you control where post excerpts are displayed.<br/><br/> "
+"<strong>About:</strong> Excerpts are small summaries of articles filled out "
+"when creating a post."
+msgstr ""
+
+#: includes/config.options.php:831
+msgid "Facebook"
+msgstr ""
+
+#: includes/config.options.php:832
+msgid "Twitter"
+msgstr ""
+
+#: includes/config.options.php:833
+msgid "Twitter - Add #Hashtag"
+msgstr ""
+
+#: includes/config.options.php:834
+msgid "Twitter - Show Via @Handle"
+msgstr ""
+
+#: includes/config.options.php:835
+msgid "StumbleUpon"
+msgstr ""
+
+#: includes/config.options.php:836
+msgid "Google+"
+msgstr ""
+
+#: includes/config.options.php:837
+msgid "Buffer"
+msgstr ""
+
+#: includes/config.options.php:838
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/config.options.php:839
+msgid "Pinterest"
+msgstr ""
+
+#: includes/config.options.php:840
+msgid "Add Shares Under Metabar"
+msgstr ""
+
+#: includes/config.options.php:842
+msgid "Select Which Share Buttons To Show"
+msgstr ""
+
+#: includes/config.options.php:843
+msgid "Sharebar Social Sharing Buttons"
+msgstr ""
+
+#: includes/config.options.php:844
+msgid "Select which to show and configure appearance"
+msgstr ""
+
+#: includes/config.options.php:845
+msgid ""
+"Select which social sharing buttons you would like to use in your Sharebar."
+"<br/><br/> <strong>Note:</strong> that since these use iFrames and "
+"javascript (provided by the companies themselves) they may be hard to style "
+"and control."
+msgstr ""
+
+#: includes/config.options.php:851
+msgid "Continue Reading Link Text"
+msgstr ""
+
+#: includes/config.options.php:852
+msgid "<strong>Continue Reading</strong> Link Text (When Using Excerpts)"
+msgstr ""
+
+#: includes/config.options.php:853
+msgid "The link at the end of your excerpt"
+msgstr ""
+
+#: includes/config.options.php:854
+msgid ""
+"This text will be used as the link to your full article when viewing "
+"articles on your posts page (when excerpts are turned on)."
+msgstr ""
+
+#: includes/config.options.php:864
+msgid "Full Post Content"
+msgstr ""
+
+#: includes/config.options.php:865
+msgid ""
+"In addition to single post pages and page templates, where should the theme "
+"place the full content of posts?"
+msgstr ""
+
+#: includes/config.options.php:866
+msgid ""
+"Choose where the full content of posts is displayed. Choose between all "
+"posts pages or just single post pages (i.e. posts pages can just show "
+"excerpts or titles)."
+msgstr ""
+
+#: includes/config.options.php:873
+msgid "Number of words."
+msgstr ""
+
+#: includes/config.options.php:874
+msgid "Excerpt Length"
+msgstr ""
+
+#: includes/config.options.php:875
+msgid "Set the length of excerpts to something other than default"
+msgstr ""
+
+#: includes/config.options.php:876
+msgid "Excerpts are set to 55 words by default."
+msgstr ""
+
+#: includes/config.options.php:882
+msgid "Allowed Tags"
+msgstr ""
+
+#: includes/config.options.php:883
+msgid "Allow Tags in Excerpt"
+msgstr ""
+
+#: includes/config.options.php:884
+msgid "Control which tags are stripped from excerpts"
+msgstr ""
+
+#: includes/config.options.php:885
+msgid ""
+"By default WordPress strips all HTML tags from excerpts. You can use this "
+"option to allow certain tags. Simply enter the allowed tags in this field. "
+"<br/>An example of allowed tags could be: <strong>&lt;p&gt;&lt;br&gt;&lt;"
+"a&gt;</strong>. <br/><br/> <strong>Note:</strong> Enter a period <strong>.</"
+"strong> to disallow all tags."
+msgstr ""
+
+#: includes/config.options.php:906
+msgid "Include Google IE Compatibility Script?"
+msgstr ""
+
+#: includes/config.options.php:907
+msgid "Google IE Compatibility Fix"
+msgstr ""
+
+#: includes/config.options.php:908
+msgid "Include a Google JS script that fixes problems with IE"
+msgstr ""
+
+#: includes/config.options.php:909
+msgid ""
+"More info on this can be found <a target='_blank' href='http://code.google."
+"com/p/ie7-js/'>here</a>."
+msgstr ""
+
+#: includes/config.options.php:914
+msgid "Enable Code Prettify?"
+msgstr ""
+
+#: includes/config.options.php:915
+msgid "Google Prettify Code"
+msgstr ""
+
+#: includes/config.options.php:916
+msgid "Adds pretty syntax highlighting for code."
+msgstr ""
+
+#: includes/config.options.php:917
+msgid ""
+"Add a class of 'prettyprint' to code or pre tags, or optionally use the "
+"[pl_codebox] shortcode. Wrap the codebox shortcode using [pl_raw] if "
+"Wordpress inserts line breaks."
+msgstr ""
+
+#: includes/config.options.php:922
+msgid "Enter Partner Link"
+msgstr ""
+
+#: includes/config.options.php:923
+msgid "PageLines Affiliate/Partner Link"
+msgstr ""
+
+#: includes/config.options.php:924
+msgid "Change a your PageLines footer link to a PageLines affiliate link"
+msgstr ""
+
+#: includes/config.options.php:925
+msgid ""
+"If you are a <a target='_blank' href='http://www.pagelines.com'>PageLines "
+"Partner</a> enter your link here and the footer link will become a partner "
+"or affiliate link."
+msgstr ""
+
+#: includes/config.options.php:931
+msgid "Disable AJAX Saving?"
+msgstr ""
+
+#: includes/config.options.php:932
+msgid "Disable AJAX Saving"
+msgstr ""
+
+#: includes/config.options.php:933
+msgid "Check to disable AJAX saving"
+msgstr ""
+
+#: includes/config.options.php:934
+msgid ""
+"Check this option if you are having problems with AJAX saving. For example, "
+"if design control or typography options aren't working"
+msgstr ""
+
+#: includes/config.options.php:941
+msgid "Install Class"
+msgstr ""
+
+#: includes/config.options.php:942
+msgid "Current Install Class"
+msgstr ""
+
+#: includes/config.options.php:943
+msgid "Add a special body class to this install of PageLines"
+msgstr ""
+
+#: includes/config.options.php:944
+msgid ""
+"Use this option to add a class to the &gt;body&lt; element of the website. "
+"This can be useful when using the same child theme on several installations "
+"or sub domains and can be used to control CSS customizations."
+msgstr ""
+
+#: includes/config.options.php:950
+msgid "Enable debug?"
+msgstr ""
+
+#: includes/config.options.php:951
+msgid "PageLines debug"
+msgstr ""
+
+#: includes/config.options.php:952
+msgid "Show detailed settings information"
+msgstr ""
+
+#: includes/config.options.php:953
+msgid "This information can be useful in the forums if you have a problem. %s"
+msgstr ""
+
+#: includes/config.options.php:960
+msgid "Enable CSS minification?"
+msgstr ""
+
+#: includes/config.options.php:961
+msgid "Minification"
+msgstr ""
+
+#: includes/config.options.php:962
+msgid "Strips whitespace from compiled CSS."
+msgstr ""
+
+#: includes/config.options.php:970 includes/config.options.php:986
+msgid "Administrator"
+msgstr ""
+
+#: includes/config.options.php:971 includes/config.options.php:987
+msgid "Editor"
+msgstr ""
+
+#: includes/config.options.php:973 includes/config.options.php:989
+msgid "Contributor"
+msgstr ""
+
+#: includes/config.options.php:975
+msgid "Minimum user level for Post/Page Meta Settings"
+msgstr ""
+
+#: includes/config.options.php:976
+msgid "Post/Page Meta"
+msgstr ""
+
+#: includes/config.options.php:977
+msgid "Set userlevels for the different settings pages. "
+msgstr ""
+
+#: includes/config.options.php:978 includes/config.options.php:992
+msgid ""
+"Members with a user level lower than the settings here will not be able to "
+"see the settings."
+msgstr ""
+
+#: includes/config.options.php:991
+msgid "Minimum user level for Custom Post Types ( banners, features etc )"
+msgstr ""
+
+#: includes/config.options.php:1016
+msgid "CSS/LESS Rules"
+msgstr ""
+
+#: includes/config.options.php:1017
+msgid "Custom CSS / LESS"
+msgstr ""
+
+#: includes/config.options.php:1018
+msgid ""
+"Insert custom CSS or LESS styling here. It will be stored in the DB and not "
+"overwritten. <br/>Note: The professional way to customize your site is using "
+"a child theme, or customization plugin"
+msgstr ""
+
+#: includes/config.options.php:1020
+msgid "View Customization Documentation"
+msgstr ""
+
+#: includes/config.options.php:1027
+msgid "Headerscripts Code"
+msgstr ""
+
+#: includes/config.options.php:1028
+msgid "Header Scripts"
+msgstr ""
+
+#: includes/config.options.php:1029
+msgid "Scripts inserted directly before the end of the HTML &lt;head&gt; tag"
+msgstr ""
+
+#: includes/config.options.php:1036
+msgid "Footerscripts Code or Analytics"
+msgstr ""
+
+#: includes/config.options.php:1037
+msgid "Footer Scripts &amp; Analytics"
+msgstr ""
+
+#: includes/config.options.php:1038
+msgid "Any footer scripts including Google Analytics"
+msgstr ""
+
+#: includes/config.options.php:1046 includes/config.options.php:1047
+msgid "Asynchronous Analytics"
+msgstr ""
+
+#: includes/config.options.php:1048
+msgid ""
+"Placeholder for Google asynchronous analytics. Goes just before <strong>&lt;/"
+"html&gt;</strong> tag"
+msgstr ""
+
+#: includes/config.options.php:1063
+msgid ""
+"Enter CSS Rules to change the style of your site.<br/><br/> A lot can be "
+"accomplished by simply changing the default styles of the <strong>body</"
+"strong> tag such as <strong>line-height</strong>, <strong>font-size</"
+"strong>, or <strong>color</strong> (as in text color)."
+msgstr ""
+
+#: includes/library.templates.php:169
+msgid "Add Widgets &rarr;"
+msgstr ""
+
+#: includes/library.templates.php:488
+msgid "Page %s"
+msgstr ""
+
+#: includes/library.templates.php:509
+msgid "|"
+msgstr ""
+
+#: includes/library.templates.php:521
+msgid "Search Results: %s"
+msgstr ""
+
+#: includes/library.templates.php:525
+msgid "Page: %s"
+msgstr ""
+
+#: includes/library.templates.php:639
+msgid "&larr; Previous Entries"
+msgstr ""
+
+#: includes/library.templates.php:642
+msgid "Next Entries &rarr;"
+msgstr ""
+
+#: includes/library.templates.php:674
+msgid ""
+"<ul class='inline-list'>Please select a nav menu for this area in the <a "
+"href='%s'>WordPress menu admin</a>.</ul>"
+msgstr ""
+
+#: includes/library.templates.php:748 sections/sb_footcols/section.php:58
+#: sections/sb_footcols/section.php:60
+msgid "Home"
+msgstr ""
+
